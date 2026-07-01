@@ -54,4 +54,12 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0735-asteroid-collision) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
