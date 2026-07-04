@@ -18,6 +18,7 @@
 | [0735-asteroid-collision](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2104-sum-of-subarray-ranges](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Stack
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0503-next-greater-element-ii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -34,6 +36,7 @@
 | [0496-next-greater-element-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
 | ------- |
