@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0069-sqrtx) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
 | ------- |
