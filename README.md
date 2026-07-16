@@ -25,6 +25,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2104-sum-of-subarray-ranges](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0455-assign-cookies) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,12 +81,14 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0735-asteroid-collision) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +124,7 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -152,4 +157,5 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
