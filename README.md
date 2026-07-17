@@ -56,6 +56,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
@@ -74,6 +75,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -136,6 +138,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
