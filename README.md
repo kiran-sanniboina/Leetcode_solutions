@@ -19,6 +19,7 @@
 | [0455-assign-cookies](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0860-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0069-sqrtx) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
