@@ -1,11 +1,17 @@
 class Solution {
+    Integer[][] dp;
     public boolean predictTheWinner(int[] nums) {
-        return f(0,nums.length-1,nums)>=0;
+        int n = nums.length;
+        dp = new Integer[n][n];
+        return f(0,n-1,nums)>=0;
     }
-    static int f(int i,int j, int[] nums){
+    int f(int i,int j, int[] nums){
         if(i==j){
             return nums[i];
         }
-        return Math.max(nums[i]-f(i+1,j,nums),nums[j]-f(i,j-1,nums));
+        if(dp[i][j]!=null){
+            return dp[i][j];
+        }
+        return dp[i][j]=Math.max(nums[i]-f(i+1,j,nums),nums[j]-f(i,j-1,nums));
     }
 }
