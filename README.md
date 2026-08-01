@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0486-predict-the-winner](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0085-maximal-rectangle](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0239-sliding-window-maximum](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -81,6 +83,7 @@
 | [0042-trapping-rain-water](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
+| [0486-predict-the-winner](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## String
@@ -103,6 +106,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0069-sqrtx) |
+| [0486-predict-the-winner](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -216,4 +220,8 @@
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
