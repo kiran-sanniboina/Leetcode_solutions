@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0486-predict-the-winner](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0486-predict-the-winner) |
@@ -149,6 +151,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0455-assign-cookies) |
