@@ -37,6 +37,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3731-find-missing-elements](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -73,6 +74,7 @@
 | [0496-next-greater-element-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -169,6 +171,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
