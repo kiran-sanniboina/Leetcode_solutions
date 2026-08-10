@@ -97,6 +97,7 @@
 | [0678-valid-parenthesis-string](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1510-stone-game-iv](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1510-stone-game-iv) |
 ## String
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0486-predict-the-winner](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -245,8 +247,25 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1510-stone-game-iv) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0056-merge-intervals) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
