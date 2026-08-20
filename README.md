@@ -43,6 +43,7 @@
 | [2104-sum-of-subarray-ranges](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
