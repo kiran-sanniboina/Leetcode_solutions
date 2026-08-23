@@ -117,6 +117,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
+| [1927-sum-game](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -137,6 +138,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -197,6 +199,7 @@
 | [0678-valid-parenthesis-string](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -283,6 +286,7 @@
 | [0486-predict-the-winner](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Quicksort
 |  |
