@@ -100,6 +100,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0455-assign-cookies) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
@@ -126,6 +127,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -283,6 +285,7 @@
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Counting Sort
 |  |
 | ------- |
