@@ -54,6 +54,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 ## Stack
 |  |
 | ------- |
@@ -281,6 +282,7 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [3903-smallest-stable-index-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3903-smallest-stable-index-i) |
 ## Bit Manipulation
 |  |
 | ------- |
