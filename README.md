@@ -46,6 +46,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -124,6 +125,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1510-stone-game-iv](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## String
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [1004-max-consecutive-ones-iii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Tree
 |  |
 | ------- |
@@ -245,6 +248,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3731-find-missing-elements) |
