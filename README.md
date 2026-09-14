@@ -154,6 +154,7 @@
 | [0069-sqrtx](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1927-sum-game) |
@@ -357,4 +358,8 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
