@@ -22,6 +22,7 @@
 | [0057-insert-interval](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0135-candy) |
 | [0239-sliding-window-maximum](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0435-non-overlapping-intervals) |
@@ -196,6 +197,7 @@
 | [0100-same-tree](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -221,6 +223,7 @@
 | [0100-same-tree](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -381,4 +384,12 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
