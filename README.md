@@ -110,6 +110,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0455-assign-cookies](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0455-assign-cookies) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -136,6 +137,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0402-remove-k-digits](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
