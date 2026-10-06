@@ -79,6 +79,7 @@
 | [0856-score-of-parentheses](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -145,6 +146,7 @@
 | [0402-remove-k-digits](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -256,6 +258,7 @@
 | [0455-assign-cookies](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1927-sum-game) |
@@ -407,5 +410,6 @@
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
