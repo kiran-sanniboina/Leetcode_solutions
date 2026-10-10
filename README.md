@@ -412,4 +412,8 @@
 | [0856-score-of-parentheses](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
