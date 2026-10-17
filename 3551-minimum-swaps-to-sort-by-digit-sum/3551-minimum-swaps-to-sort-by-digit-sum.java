@@ -1,8 +1,7 @@
 class Solution {
     public int minSwaps(int[] nums) {
-        int[] nums1 = nums.clone();
-        Integer[] arr = new Integer[nums1.length];
-        for(int i=0;i<nums1.length;i++){
+        Integer[] arr = new Integer[nums.length];
+        for(int i=0;i<nums.length;i++){
             arr[i]=nums[i];
         }
         Arrays.sort(arr,(a,b)->{
