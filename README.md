@@ -354,6 +354,7 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -422,6 +423,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
 ## Binary Search Tree
 |  |
 | ------- |
