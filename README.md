@@ -39,6 +39,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
@@ -243,6 +244,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -264,6 +266,7 @@
 | [0100-same-tree](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 ## Greedy
 |  |
 | ------- |
@@ -312,6 +315,7 @@
 | [0085-maximal-rectangle](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0085-maximal-rectangle) |
 | [0835-image-overlap](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 ## Queue
 |  |
 | ------- |
@@ -377,6 +381,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -454,4 +459,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/kiran-sanniboina/Leetcode_solutions/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
